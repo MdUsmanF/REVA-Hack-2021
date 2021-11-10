@@ -598,3 +598,14 @@ header #menu{
     }
 
 }
+
+.Videos{
+    background:#fffdfb;
+    color:#fff; 
+    font-size: 100%;
+    overflow-x: hidden;
+    color:#444;
+    padding:1rem;
+    font-size: 4rem;
+    text-align: center;
+}
