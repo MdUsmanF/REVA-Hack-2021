@@ -598,3 +598,8 @@ header #menu {
 	font-size: 4rem;
 	text-align: center;
 }
+.discord {
+	font-size: 2rem;
+	text-align: center;
+	color: #444;
+}
