@@ -602,4 +602,5 @@ header #menu {
 	font-size: 2rem;
 	text-align: center;
 	color: #444;
+	image-resolution: 50px;
 }
