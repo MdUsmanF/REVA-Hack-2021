@@ -10,10 +10,10 @@ Elevator Pitch
 Team Name
 Dhi Vāc
 
-Mohammed Usman F
-Karthik K Pagnis
-Suhas M R
-Yogesh B
+Mohammed Usman F,
+Karthik K Pagnis,
+Suhas M R,
+Yogesh B,
 
 12th November, 2021
 
